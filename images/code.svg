@@ -1,13 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87 72">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 78.306 78">
   <defs>
     <style>
       .cls-1 {
         fill: #697b6f;
-        font-size: 60px;
-        font-family: CascadiaCode-Regular, Cascadia Code;
-        letter-spacing: -0.157em;
       }
     </style>
   </defs>
-  <text id="_" data-name="{;}" class="cls-1" transform="translate(0 58)"><tspan x="0" y="0">{;}</tspan></text>
+  <g id="web-development" transform="translate(0 -1)">
+    <path id="Path_201" data-name="Path 201" class="cls-1" d="M71.424,1H6.882A6.89,6.89,0,0,0,0,7.882V72.118A6.89,6.89,0,0,0,6.882,79H71.424a6.89,6.89,0,0,0,6.882-6.882V7.882A6.89,6.89,0,0,0,71.424,1ZM6.882,5.588H71.424a2.3,2.3,0,0,1,2.294,2.294V19.353H4.588V7.882A2.3,2.3,0,0,1,6.882,5.588ZM71.424,74.412H6.882a2.3,2.3,0,0,1-2.294-2.294V23.941H73.718V72.118A2.3,2.3,0,0,1,71.424,74.412Z"/>
+    <path id="Path_202" data-name="Path 202" class="cls-1" d="M212.959,196.183a2.294,2.294,0,0,0-3.012,1.2l-13.765,32.118a2.294,2.294,0,1,0,4.217,1.807l13.765-32.118A2.294,2.294,0,0,0,212.959,196.183Z" transform="translate(-166.02 -165.173)"/>
+    <path id="Path_203" data-name="Path 203" class="cls-1" d="M91.559,241.86a2.294,2.294,0,0,0-3.224-.358l-11.471,9.176a2.3,2.3,0,0,0,0,3.583l11.471,9.176a2.294,2.294,0,1,0,2.866-3.583L81.97,252.47l9.231-7.385A2.294,2.294,0,0,0,91.559,241.86Z" transform="translate(-64.38 -203.294)"/>
+    <path id="Path_204" data-name="Path 204" class="cls-1" d="M346.2,250.678,334.727,241.5a2.294,2.294,0,1,0-2.866,3.583l9.231,7.385-9.231,7.385a2.294,2.294,0,1,0,2.866,3.583l11.471-9.176A2.3,2.3,0,0,0,346.2,250.678Z" transform="translate(-280.376 -203.293)"/>
+    <circle id="Ellipse_6" data-name="Ellipse 6" class="cls-1" cx="2.294" cy="2.294" r="2.294" transform="translate(9.329 10.176)"/>
+    <circle id="Ellipse_7" data-name="Ellipse 7" class="cls-1" cx="2.294" cy="2.294" r="2.294" transform="translate(18.506 10.176)"/>
+    <circle id="Ellipse_8" data-name="Ellipse 8" class="cls-1" cx="2.294" cy="2.294" r="2.294" transform="translate(27.682 10.176)"/>
+    <path id="Path_205" data-name="Path 205" class="cls-1" d="M333.294,65.588h13.765a2.294,2.294,0,1,0,0-4.588H333.294a2.294,2.294,0,1,0,0,4.588Z" transform="translate(-280.376 -50.824)"/>
+  </g>
 </svg>
